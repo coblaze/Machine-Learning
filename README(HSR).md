@@ -28,7 +28,7 @@ Both the source code and documentation can be found in this submission.
 
 Apache Netbeans is a very light-weight application framework, and should thus be able to run on most computers. 
 
-## Unity Installation
+## Netbeans Installation
 
 These steps are for the installation of Apache Netbeans 15. Check system requirements to verify the program will run properly before installation.
 
